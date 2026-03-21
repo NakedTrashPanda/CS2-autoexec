@@ -9,7 +9,7 @@ Super minimal, no bloat, just things that make the game feel better without mess
 - Mouse sensitivity & jump binds (mwheel + space)
 - Weapon/grenade binds + quick bomb drop alias
 - HUD & radar (hold N for bigger radar boost)
-- FPS/performance tweaks (300 fps cap, gamma, preload)
+- FPS/performance tweaks (300 fps cap, gamma)
 - Quick disconnect, voice toggle, hand switch
 - My exact crosshair commands (small, no outline, bright green)
 
