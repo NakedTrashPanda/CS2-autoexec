@@ -60,4 +60,4 @@ Full build: [pcpartpicker.com](https://pcpartpicker.com/user/Sypticle/saved/#vie
 - **Headphones/IEMs**: Truthear Hexa  
 
 
-Last updated: March 2026
+Last updated: April 2026
