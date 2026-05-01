@@ -16,25 +16,13 @@ Super ~~minimal~~ clean, no bloat, just things that make the game feel better wi
 
 Everything is grouped with // comments so it's easy to read or tweak.
 
-## How to Install (Manual)
+## How to Install
 
 1. Download the `execs` folder or the contents of the folder. 
 2. Place `execs` in your CS2 cfg folder located at:
    Default path for Windows:  
    `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`  
    
-3. (Recommended) Add this to your CS2 launch options in Steam:  
-   `+exec execs\autoexec.cfg` (Take note of the back slash. Windows and Linux handles these differently)
-   Or just open console (~) in-game and type `exec execs\autoexec.cfg` once.
-4. Restart CS2 – it should load automatically on next launch!
-
-## Install with Git
-
-1. Open powershell and navigate to your CS2 cfg folder: 
-   cd `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
-2. then clone this respository 
-   `git clone https://github.com/NakedTrashPanda/CS2-autoexec.git .`
-
 3. (Recommended) Add this to your CS2 launch options in Steam:  
    `+exec execs\autoexec.cfg` (Take note of the back slash. Windows and Linux handles these differently)
    Or just open console (~) in-game and type `exec execs\autoexec.cfg` once.
