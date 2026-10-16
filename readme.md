@@ -9,7 +9,7 @@ Super ~~minimal~~ clean, no bloat, just things that make the game feel better wi
 - Mouse sensitivity & jump binds (mwheel + space)
 - Weapon/grenade binds + quick bomb drop alias
 - HUD & radar (hold N for bigger radar boost)
-- Slight FPS/performance tweaks (300 fps cap)
+- Slight FPS/performance tweaks (312.5 fps cap)
 - Quick disconnect, voice toggle, hand switch
 - My exact crosshair commands (small, no outline, bright green)
 - Mode specific configs (nade practice, surf, Longjump)
@@ -64,10 +64,10 @@ Full build: [pcpartpicker.com](https://pcpartpicker.com/user/Sypticle/saved/#vie
 - **Keyboard**: Wooting 60 HE+ | Arbiter Studio 65 *
   - Main profile: 1e144d390e30e8d096859e35a245930c1da6
   - Lowest latency: 5af994d424ccfb9a37af503dfe861dc0052f
-- **Mouse**: Lamzu Atlantis Mini OG (ESPTiger Ice V2 Dot Skates)
+- **Mouse**: Lamzu Atlantis Mini OG (Obsidian Air Pro Donut Skates)
 - **Mousepad**: Artisian Hayate Otsu Xsoft XL | Esptiger SheSheJia Purple | Tekkusai Void (glass) *
 - **Mic**: Samson Q9U
 - **Audio Interface**: Audient Evo 4
-- **Headphones/IEMs**: Truthear Hexa
+- **Headphones/IEMs**: Letshuoer S12 Pro
 
 Last updated: October 2026
